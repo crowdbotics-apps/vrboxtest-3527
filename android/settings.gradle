@@ -1,0 +1,3 @@
+rootProject.name = 'vrboxtest_3527'
+
+include ':app'
